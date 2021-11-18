@@ -6,9 +6,9 @@
         <meta name="description" content="" />
         <meta name="author" content="" />
         <title>DiProxy.com</title>
-        <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
+        <link rel="icon" type="image/x-icon" href="templates/assets/favicon.ico" />
         <!-- Core theme CSS (includes Bootstrap)-->
-        <link href="css/styles.css" rel="stylesheet" />
+        <link href="templates/css/styles.css" rel="stylesheet" />
     </head>
     <body id="page-top">
         <!-- Navigation-->
@@ -66,7 +66,7 @@
             <div class="container px-4"><p class="m-0 text-center text-white">Copyright &copy; diproxy.com 2021</p></div>
         </footer>
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
-        <script src="js/scripts.js"></script>
+        <script src="templates/js/scripts.js"></script>
         <script type="text/javascript">
             document.getElementsByName("url")[0].focus();
         </script>
