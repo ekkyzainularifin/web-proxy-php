@@ -9,6 +9,8 @@
         <link rel="icon" type="image/x-icon" href="templates/assets/favicon.ico" />
         <!-- Core theme CSS (includes Bootstrap)-->
         <link href="templates/css/styles.css" rel="stylesheet" />
+        <meta name="generator" content="php-proxy.com">
+        <meta name="version" content="<?=$version;?>">
     </head>
     <body id="page-top">
         <!-- Navigation-->
